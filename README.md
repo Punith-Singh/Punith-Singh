@@ -80,8 +80,6 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 🎨 Fun Animations
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Punith-Singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
 </p>
@@ -95,8 +93,6 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 </p>
 
 ---
-
-### 🌈 Fun Facts  
 
 - ⚡ “I debug at 2AM, so you don’t have to.”  
 - 🧠 I think in **algorithms**, dream in **code**, and speak in **API calls**.  
