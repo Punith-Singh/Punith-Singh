@@ -44,15 +44,6 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-💬 **Chatbot Application** — AI-driven chatbot with Flask & Oracle SQL for real-time interactions.  
-🔐 **Password Manager Web App** — React + Node.js + MongoDB secure credential vault.  
-📊 **Social Media Sentiment Analyzer** — Machine learning-based sentiment visualization with Streamlit.  
-🎥 **Speed Detection System** — Real-time vehicle speed tracking using OpenCV & ML.  
-
----
 
 ### 🧩 GitHub Analytics
 <p align="center">
