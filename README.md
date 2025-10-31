@@ -44,19 +44,59 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+---
 
-### 🧩 GitHub Analytics
+### 🧠 My Achievements & Highlights  
+
+- 🏆 **Top Contributor** in multiple open-source projects  
+- ☁️ Built and deployed **Cloud-Native Apps with IBM Cloud, Docker, and Kubernetes**  
+- 💬 Speaker at **university hackathons & developer meetups**  
+- 🔐 Created **AI-integrated cybersecurity tools** for phishing detection  
+- 💡 Constant learner — exploring **LLMs, MLOps, and Cloud Security**
+
+---
+
+### 🚀 Featured Projects  
+
+| 💼 Project | 🧩 Description | 🌐 Tech Stack |
+|------------|----------------|----------------|
+| 🔹 **AutoPilot Campaign Engine** | Automated marketing campaign builder with intelligent testing and deployment | React, Node.js, Flask, MongoDB, Docker |
+| 🔹 **AI Chatbot App** | Gemini-integrated chatbot with real-time responses | Flask, HTML/CSS/JS, OracleDB |
+| 🔹 **Smart To-Do Web App** | Cloud-native task tracker with analytics and CI/CD | Flask, GitLab CI/CD, Prometheus, Grafana |
+| 🔹 **Password Manager** | Secure vault with analytics & edit features | React, MongoDB, Glassmorphism UI |
+
+---
+
+### 📊 GitHub Analytics
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Punith-Singh&theme=tokyonight&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### ⚡ Dynamic Visuals & Motion
+### 🧩 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Punith-Singh/Punith-Singh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+### 🎨 Fun Animations
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Punith-Singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
+</p>
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Punith-Singh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
@@ -66,11 +106,23 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
 </p>
 
+---
+
+### 🌈 Fun Facts  
+
+- ⚡ “I debug at 2AM, so you don’t have to.”  
+- 🧠 I think in **algorithms**, dream in **code**, and speak in **API calls**.  
+- ☕ My code runs on **coffee, curiosity, and creativity**.  
+- 🛰️ Favorite Tech Stack: `React + Flask + Docker + AI`  
+- 💬 Motto: “If it works on localhost, ship it.”
+
+---
+
+### 📈 Profile Stats & Visitors  
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=28&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" alt="animated text" />
+  <img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
-
-
 
 ---
 
@@ -85,3 +137,13 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 ---
 
 <h3 align="center">✨ “Code. Learn. Secure. Repeat.” ✨</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=28&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" alt="animated text" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Punith%20H%20Singh-blueviolet?style=for-the-badge" />
+</p>
