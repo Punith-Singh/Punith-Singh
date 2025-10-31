@@ -65,18 +65,19 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### ⚡ Dynamic Visuals & Motion
+### 💫 Developer Universe
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Punith-Singh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
+  <img src="https://streak-stats.demolab.com?user=Punith-Singh&theme=tokyonight&hide_border=true" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punith-Singh&theme=tokyonight" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=28&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" alt="animated text" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=4C8EDA&size=25&center=true&vCenter=true&width=700&lines=Creating+Impactful+Code...;Scaling+Ideas+into+Reality...;Engineering+AI+with+Purpose...;" />
 </p>
 
 
