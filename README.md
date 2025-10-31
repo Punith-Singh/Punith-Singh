@@ -65,20 +65,20 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 💫 Developer Universe
+### 🪄 Animated Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="49%" />
-  <img src="https://streak-stats.demolab.com?user=Punith-Singh&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="contribution-graph" width="95%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Punith-Singh&theme=tokyonight" width="95%" />
+  <img src="https://github-contributor-stats.vercel.app/api?username=Punith-Singh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor stats" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&color=4C8EDA&size=25&center=true&vCenter=true&width=700&lines=Creating+Impactful+Code...;Scaling+Ideas+into+Reality...;Engineering+AI+with+Purpose...;" />
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,javascript,react,flask,nodejs,mongodb,kubernetes,docker&theme=darkmode" alt="skills animation"/>
 </p>
+
 
 
 ---
