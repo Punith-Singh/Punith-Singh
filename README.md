@@ -80,18 +80,6 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 🧩 3D Contribution Calendar
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/output/github-contribution-grid-snake-dark.svg" alt="snake graph" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Punith-Singh/Punith-Singh/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
-
 ### 🎨 Fun Animations
 
 <p align="center">
