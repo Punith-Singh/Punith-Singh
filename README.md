@@ -65,18 +65,18 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 🪄 Animated Highlights
+### ⚡ Dynamic Visuals & Motion
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=tokyo-night&area=true&hide_border=true&radius=10" alt="contribution-graph" width="95%"/>
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Punith-Singh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
 </p>
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Punith-Singh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="Contributor stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
 </p>
 
 <p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,javascript,react,flask,nodejs,mongodb,kubernetes,docker&theme=darkmode" alt="skills animation"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=28&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" alt="animated text" />
 </p>
 
 
