@@ -65,14 +65,20 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 🎨 Fun Animations
+### ⚡ Dynamic Visuals & Motion
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Punith-Singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15" alt="trophies" />
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=Punith-Singh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
 </p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=28&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" alt="animated text" />
+</p>
+
 
 ---
 
