@@ -46,29 +46,6 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 🧠 My Achievements & Highlights  
-
-- 🏆 **Top Contributor** in multiple open-source projects  
-- ☁️ Built and deployed **Cloud-Native Apps with IBM Cloud, Docker, and Kubernetes**  
-- 💬 Speaker at **university hackathons & developer meetups**  
-- 🔐 Created **AI-integrated cybersecurity tools** for phishing detection  
-- 💡 Constant learner — exploring **LLMs, MLOps, and Cloud Security**
-
----
-
-### 🚀 Featured Projects  
-
-| 💼 Project | 🧩 Description | 🌐 Tech Stack |
-|------------|----------------|----------------|
-| 🔹 **AutoPilot Campaign Engine** | Automated marketing campaign builder with intelligent testing and deployment | React, Node.js, Flask, MongoDB, Docker |
-| 🔹 **AI Chatbot App** | Gemini-integrated chatbot with real-time responses | Flask, HTML/CSS/JS, OracleDB |
-| 🔹 **Smart To-Do Web App** | Cloud-native task tracker with analytics and CI/CD | Flask, GitLab CI/CD, Prometheus, Grafana |
-| 🔹 **Password Manager** | Secure vault with analytics & edit features | React, MongoDB, Glassmorphism UI |
-
----
-
-### 📊 GitHub Analytics
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Punith-Singh&theme=tokyonight&hide_border=true" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
@@ -102,15 +79,11 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-### 📈 Profile Stats & Visitors  
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=for-the-badge&color=blue" alt="Profile Views" />
 </p>
 
 ---
-
-### 🌐 Connect with Me  
 <p align="center">
   <a href="https://linkedin.com/in/punith-h-singh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Punith-Singh"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
