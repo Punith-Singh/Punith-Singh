@@ -57,19 +57,6 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-<!-- 🏆 Updated Trophy Section -->
-<p align="center">
-  <img src="https://github-profile-trophy.demolab.com/?username=Punith-Singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=Punith-Singh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true&area=true" width="95%" alt="activity graph">
-</p>
-
 ---
 
 - ⚡ “I debug at 2AM, so you don’t have to.”  
