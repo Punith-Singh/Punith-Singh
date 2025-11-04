@@ -58,9 +58,13 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 ---
 
 <!-- 🏆 Updated Trophy Section -->
+<!-- 🏅 GitHub Achievements -->
 <p align="center">
-  <img src="https://github-profile-trophy.demolab.com/?username=Punith-Singh&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <a href="https://github.com/Punith-Singh?tab=achievements">
+    <img src="https://github-profile-achievements.vercel.app/api/badge?username=Punith-Singh&theme=tokyonight&show=6" alt="GitHub Achievements" />
+  </a>
 </p>
+
 
 <p align="center">
   <img src="https://github-widgetbox.vercel.app/api/profile?username=Punith-Singh&data=followers,repositories,stars,commits&theme=darkmode" alt="GitHub WidgetBox" />
