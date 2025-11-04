@@ -57,17 +57,18 @@ With hands-on experience across **AI/ML, full-stack development, and DevOps**, I
 
 ---
 
-<!-- 🏅 GitHub Achievements & Highlights -->
+<!-- 🏆 GitHub Achievements & Highlights -->
 <h2 align="center">🏆 GitHub Achievements & Highlights</h2>
 
+<!-- Contribution Stats -->
 <p align="center">
-  <a href="https://github.com/Punith-Singh?tab=achievements">
-    <img src="https://github-profile-achievements.vercel.app/api/badge?username=Punith-Singh&theme=tokyonight&show=6" alt="GitHub Achievements" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Punith-Singh&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Punith-Singh&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" alt="GitHub Contributions" width="90%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="50%" />
 </p>
 
 ---
