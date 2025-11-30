@@ -55,19 +55,34 @@ I don't just write code; I build <b>secure, scalable ecosystems</b> that feel ma
 
 <div align="center">
 
-### <b>Core Stack & Languages</b>
-<img src="https://skillicons.dev/icons?i=python,js,go,java,c,cpp" height="55" />
+<!-- Core Stack & Languages -->
+<h3><b>Core Stack & Languages</b></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,go,java,c,cpp" height="50" />
+</p>
 
-<br/><br/>
+<!-- Frontend & Backend -->
+<h3><b>Frontend & Backend</b></h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask" height="50" />
+</p>
 
-### <b>Frontend & Backend</b>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask" height="55" />
+<!-- Cloud, Data & DevOps -->
+<h3><b>Cloud, Data & DevOps</b></h3>
 
-<br/><br/>
+<!-- Fix: wrap ALL icons in one line + convert IBM Cloud to same size -->
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" height="50"/>
+  <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" height="50"/>
 
-### <b>Cloud, Data & DevOps</b>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,mysql,docker,kubernetes,aws" height="55" />
-<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" height="33"/>
+  <!-- FIXED IBM CLOUD ICON (square, consistent size) -->
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/IBMCloud-Light.svg" height="50"/>
+</p>
 
 </div>
 
