@@ -51,22 +51,28 @@ I don't just write code; I build <b>secure, scalable ecosystems</b> that feel ma
 </table>
 
 
-<!-- Tech Stack -->
+---
+
 <div align="center">
 
-<h2>⚙️ Tech Arsenal</h2>
+### <b>Core Stack & Languages</b>
+<img src="https://skillicons.dev/icons?i=python,js,go,java,c,cpp" height="55" />
 
-<p><b>Core Stack & Languages</b></p>
-<img src="https://skillicons.dev/icons?i=python,js,go,java,c,cpp&theme=dark" height="55"/>
+<br/><br/>
 
-<p><b>Frontend & Backend</b></p>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask&theme=dark" height="55"/>
+### <b>Frontend & Backend</b>
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask" height="55" />
 
-<p><b>Cloud, Data & DevOps</b></p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,mysql,docker,kubernetes,aws&theme=dark" height="55"/>
-<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white" height="30"/>
+<br/><br/>
+
+### <b>Cloud, Data & DevOps</b>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,mysql,docker,kubernetes,aws" height="55" />
+<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white" height="33"/>
 
 </div>
+
+---
+
 
 
 <!-- Analytics -->
