@@ -2,7 +2,9 @@
 
 <!-- Animated Typing Header -->
 
+<a href="https://github.com/Punith-Singh">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DOrbitron%26color%3D36BCF7%26size%3D32%26center%3Dtrue%26vCenter%3Dtrue%26width%3D1000%26lines%3DHey%2Bthere!%2BI%27m%2BPunith%2BH%2BSingh+👋;Architecting+Secure+AI+Systems+🧠;Full+Stack+Engineering+Wizard+💻;DevOps+%26+Cloud+Native+Pro+☁️;Building+the+Future+of+Tech+🚀" alt="Typing SVG" />
+</a>
 
 <!-- Social Badges -->
 
