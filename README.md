@@ -1,105 +1,101 @@
-<!-- Header Typing Animation -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&pause=900&color=36BCF7&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Punith+H+Singh+👋;AI+%26+Cybersecurity+Developer+🧠;Full+Stack+Engineer+💻;Cloud-Native+Builder+☁️;DevOps+and+Automation+Enthusiast+🚀" alt="Typing Animation" />
-</h1>
+<div align="center">
 
----
+<!-- Animated Header -->
+<a href="https://github.com/Punith-Singh">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hey+there!+I'm+Punith+H+Singh+👋;Architecting+Secure+AI+Systems+🧠;Full+Stack+Engineering+Wizard+💻;DevOps+%26+Cloud+Native+Pro+☁️;Building+the+Future+of+Tech+🚀" />
+</a>
 
-### 👨‍💻 About Me  
+<!-- Social Icons -->
 <p align="center">
-I'm a <strong>Computer Science Engineer</strong> passionate about creating secure, scalable, and intelligent digital experiences.<br/>
-With experience across <strong>AI/ML, full-stack development, cloud, and DevOps</strong>, I focus on building fast, secure, and human-centric applications.
+<a href="https://linkedin.com/in/punith-h-singh"><img src="https://skillicons.dev/icons?i=linkedin" height="50"/></a>
+<a href="https://github.com/Punith-Singh"><img src="https://skillicons.dev/icons?i=github" height="50"/></a>
+<a href="mailto:punithsingh18@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"/></a>
+<a href="https://punith-singh.github.io/mywebsite"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white" height="45"/></a>
 </p>
 
-<p align="center">
-  🧠 Exploring <strong>AI × Cybersecurity</strong> for next-gen secure systems <br/>
-  🚀 Skilled in <strong>Flask, React, Node.js, MongoDB, Docker, Kubernetes</strong> <br/>
-  🌩️ Certified in <strong>IBM Cloud & Cloud-Native Application Development</strong> <br/>
-  🎯 Goal: Build intelligent apps that feel magical ✨
+</div>
+
+
+<!-- About Section -->
+<table>
+<tr>
+<td width="60%" valign="top">
+
+<h2>👨‍💻 Mission Control</h2>
+<p>
+I'm a <b>Computer Science Engineer</b> blending the worlds of <b>Cybersecurity, AI, and Full-Stack Development</b>.  
+I don't just write code; I build <b>secure, scalable ecosystems</b> that feel magical.
 </p>
 
-<p align="center">
-  <img width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-</p>
+<ul>
+<li>🧠 <b>Innovating:</b> Fusing AI with Cybersecurity for next-gen defense.</li>
+<li>💻 <b>Building:</b> Scalable apps with React, Flask, Node.js & K8s.</li>
+<li>☁️ <b>Deploying:</b> IBM Certified Cloud Architect.</li>
+</ul>
 
----
+<blockquote>
+<i>"I debug at 2AM so the world stays secure."</i><br>
+<b>Motto:</b> If it works on localhost, ship it. 🚀
+</blockquote>
 
-## ⚙️ Tech Stack  
-<p align="center">
+</td>
 
-<!-- LANGUAGES -->
-<strong>Languages</strong><br/>
-<img src="https://skillicons.dev/icons?i=python,js,go,mysql,postgres" height="45" />
+<!-- GIF Section -->
+<td width="40%">
+<div align="center">
+<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%" />
+</div>
+</td>
 
-<br/><br/>
+</tr>
+</table>
 
-<!-- FRONTEND -->
-<strong>Frontend</strong><br/>
-<img src="https://skillicons.dev/icons?i=react,next,tailwind" height="45" />
 
-<br/><br/>
+<!-- Tech Stack -->
+<div align="center">
 
-<!-- BACKEND -->
-<strong>Backend</strong><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" height="45" />
+<h2>⚙️ Tech Arsenal</h2>
 
-<br/><br/>
+<p><b>Core Stack & Languages</b></p>
+<img src="https://skillicons.dev/icons?i=python,js,go,java,c,cpp&theme=dark" height="55"/>
 
-<!-- CLOUD -->
-<strong>Database & Cloud</strong><br/>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase,docker,kubernetes" height="45" />
-<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge&logo=ibmcloud&logoColor=white"/>
+<p><b>Frontend & Backend</b></p>
+<img src="https://skillicons.dev/icons?i=react,next,tailwind,nodejs,express,flask&theme=dark" height="55"/>
 
-</p>
+<p><b>Cloud, Data & DevOps</b></p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,mysql,docker,kubernetes,aws&theme=dark" height="55"/>
+<img src="https://img.shields.io/badge/IBM_Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white" height="30"/>
 
----
+</div>
 
-## 🚀 Fun Developer Facts  
-<p align="center">
-⚡ “I debug at 2AM, so you don’t have to.”<br/>
-🧠 I think in <strong>algorithms</strong>, dream in <strong>code</strong>, and speak in <strong>API calls</strong>.<br/>
-☕ Powered by <strong>coffee, curiosity, and creativity</strong>.<br/>
-🛰️ Favorite stack → <code>React + Flask + Docker + AI</code><br/>
-💬 Motto → <strong>“If it works on localhost, ship it.”</strong>
-</p>
 
----
+<!-- Analytics -->
+<div align="center">
 
-## 📊 GitHub Stats (Animated)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Punith-Singh&theme=tokyonight&hide_border=true" height="160" />
-</p>
+<h2>📊 Analytics</h2>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true" />
-</p>
+<a href="https://github.com/Punith-Singh">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&theme=tokyonight&hide_border=true" />
+</a>
 
----
+<a href="https://github.com/Punith-Singh">
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Punith-Singh&theme=tokyonight&hide_border=true" />
+</a>
 
-## 🌐 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/punith-h-singh"><img src="https://skillicons.dev/icons?i=linkedin" height="50"></a>
-  <a href="https://github.com/Punith-Singh"><img src="https://skillicons.dev/icons?i=github" height="50"></a>
-  <a href="mailto:punithsingh18@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="50"></a>
-  <a href="https://punith-singh.github.io/mywebsite"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"></a>
-</p>
+<br><br>
 
----
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&theme=react-dark&hide_border=true&area=true" width="100%"/>
 
-<h3 align="center">✨ “Code. Learn. Secure. Repeat.” ✨</h3>
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=26&pause=800&color=0FF9E4&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" />
-</p>
 
----
+<!-- Footer -->
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=for-the-badge&color=blue" />
-</p>
+<img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=flat-square&color=blueviolet&label=Profile+Views" />
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Punith%20H%20Singh-blueviolet?style=for-the-badge" />
-</p>
+<br>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=22&center=true&vCenter=true&width=700&lines=Code.+Learn.+Secure.+Repeat." />
+
+</div>
