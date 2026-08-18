@@ -1,247 +1,106 @@
-<div align="center">
+<!-- Animated Header -->
 
-# PUNITH H. SINGH
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Products+That+Solve+Problems" alt="Typing animation"/>
-
-<br/>
-
-<a href="https://punith-singh.github.io/mywebsite">
-  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
-</a>
-<a href="https://www.linkedin.com/in/punith-h-singh">
-  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
-</a>
-<a href="mailto:punithsingh18@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
-</a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views"/>
-
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=36BCF7&size=35&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Punith+H+Singh+👋;AI+%26+Cybersecurity+Developer+🧠;Full+Stack+Engineer+💻;Cloud-Native+Application+Builder+☁️;DevOps+and+Automation+Enthusiast+🚀" />
+</h1>
 
 ---
 
-## `01` — About Me
+### 👨‍💻 About Me
 
-<table>
-<tr>
-<td width="60%" valign="top">
+I'm a **Computer Science Engineer** passionate about creating secure, scalable, and intelligent digital experiences.
 
-I'm a **Computer Science Engineer** who enjoys building software across the stack.
+With hands-on experience across **AI/ML, full-stack development, and DevOps**, I love blending innovation with performance.
 
-My focus is on creating **clean, scalable and reliable applications** — from frontend interfaces and backend APIs to databases, cloud infrastructure and automation.
+* 🧠 Exploring **AI + Cybersecurity** integration for smarter systems
+* 🚀 Experienced with **Flask, React, Node.js, MongoDB, Kubernetes**
+* ⚡ Certified in **IBM Cloud & Cloud-Native Development**
+* 🎯 Goal: Build intelligent applications that feel truly human
 
-I like understanding how systems work end-to-end and turning ideas into products that people can actually use.
-
-<br/>
-
-**Currently interested in**
-
-* Full-Stack Engineering
-* Backend & API Development
-* Cloud & DevOps
-* AI-powered applications
-* Cybersecurity
-* Distributed systems
-
-</td>
-
-<td width="40%" valign="top">
-
-```text
-╭─────────────────────────╮
-│       PUNITH.SYS        │
-├─────────────────────────┤
-│                         │
-│  BUILD       ✓          │
-│  LEARN       ✓          │
-│  SHIP        ✓          │
-│  REPEAT      ∞          │
-│                         │
-╰─────────────────────────╯
-```
-
-</td>
-</tr>
-</table>
+<img align="right" alt="Coding GIF" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 ---
 
-## `02` — Tech Stack
+### ⚙️ Tech Stack
 
-<div align="center">
+#### **Languages**
 
-### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=yellow)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
 
-<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
-<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=00ADD8"/>
-<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+#### **Frontend**
 
-### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+#### **Backend**
 
-### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-20232A?style=for-the-badge\&logo=flask\&logoColor=white)
 
-<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+#### **Database & Cloud**
 
-### Cloud · DevOps · Data
-
-<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
-<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
-<img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
-<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
-<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
-
-</div>
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+![IBM Cloud](https://img.shields.io/badge/IBM_Cloud-1261FE?style=for-the-badge\&logo=ibmcloud\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
 
 ---
 
-## `03` — Things I've Built
+### ⚡ Fun Facts
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🛡️ ZenShield
-
-**Android productivity application**
-
-A notification management and focus application designed to reduce distractions and help users maintain focused sessions.
-
-`Kotlin` `Jetpack Compose` `Android`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🤖 CareerForge AI
-
-**AI-powered career platform**
-
-A platform focused on generating resumes and cover letters while helping tailor applications to specific job requirements.
-
-`React` `Firebase` `AI`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 OmniConverter
-
-**Modern conversion platform**
-
-A clean web application for handling different conversion utilities with a responsive interface.
-
-`React` `JavaScript` `Tailwind`
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛰️ Satellite Tracker
-
-**Interactive orbital visualization**
-
-A web application for tracking satellites and visualizing orbital information.
-
-`React` `Three.js` `satellite.js`
-
-</td>
-</tr>
-</table>
+* “I debug at **2AM**, so you don’t have to.”
+* I think in **algorithms**, dream in **code**, and speak in **API calls**.
+* Runs on **coffee + curiosity + creativity**.
+* Favorite Stack → `React + Flask + Docker + AI`
+* 💬 Motto: **"If it works on localhost, ship it."**
 
 ---
 
-## `04` — What I'm Exploring
-
-<div align="center">
-
-```text
-        ┌──────────────────────────────────────────┐
-        │                                          │
-        │   AI ENGINEERING                         │
-        │        ↓                                 │
-        │   BACKEND ARCHITECTURE                   │
-        │        ↓                                 │
-        │   CLOUD & DEVOPS                         │
-        │        ↓                                 │
-        │   CYBERSECURITY                          │
-        │        ↓                                 │
-        │   DISTRIBUTED SYSTEMS                    │
-        │                                          │
-        └──────────────────────────────────────────┘
-```
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=for-the-badge&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## `05` — GitHub
+### 🔗 Connect With Me
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&hide_title=false" width="48%" />
+  <a href="https://linkedin.com/in/punith-h-singh">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8" width="42%" />
+  <a href="https://github.com/Punith-Singh">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<br/><br/>
+  <a href="mailto:punithsingh18@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<img src="https://streak-stats.demolab.com?user=Punith-Singh&theme=transparent&hide_border=true&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="70%" />
+  <a href="https://punith-singh.github.io/mywebsite">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 
-</div>
-
----
-
-## `06` — Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&bg_color=0F172A&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="95%" />
-
-</div>
+</p>
 
 ---
 
-## `07` — Connect
+<h3 align="center">✨ “Code. Learn. Secure. Repeat.” ✨</h3>
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&color=0FF9E4&size=28&center=true&vCenter=true&width=700&lines=🚀+Coding+the+Future;🔐+Building+Secure+AI+Systems;⚙️+Innovating+End+to+End;☁️+Living+in+the+Cloud" />
+</p>
 
-<a href="https://github.com/Punith-Singh">
-<img src="https://img.shields.io/badge/GitHub-View%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-</a>
+---
 
-<a href="https://www.linkedin.com/in/punith-h-singh">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
-</a>
-
-<a href="https://punith-singh.github.io/mywebsite">
-<img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
-</a>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Build+something+useful.;Make+it+beautiful.;Keep+learning.;Ship+it." />
-
-<br/><br/>
-
-**`Code · Build · Learn · Repeat`**
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with%20❤️%20by-Punith%20H%20Singh-blueviolet?style=for-the-badge" />
+</p>
