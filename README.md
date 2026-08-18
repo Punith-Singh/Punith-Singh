@@ -1,127 +1,124 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                        HERO SECTION                            -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:111827,100:06b6d4&height=220&section=header&text=PUNITH%20H.%20SINGH&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Cloud%20%26%20DevOps&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+# PUNITH H. SINGH
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=800&color=22D3EE&center=true&vCenter=true&width=650&lines=Software+Engineer;Full-Stack+Developer;Cloud+%26+DevOps+Enthusiast;Building+Products+That+Solve+Problems" alt="Typing animation"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=750&lines=Building+scalable+software+%F0%9F%9A%80;Turning+ideas+into+products+%F0%9F%92%A1;Full-Stack+%7C+Cloud+%7C+DevOps;Exploring+AI+%26+Cybersecurity+%F0%9F%94%90;Always+building.+Always+learning." />
-
-<br><br>
+<br/>
 
 <a href="https://punith-singh.github.io/mywebsite">
-<img src="https://img.shields.io/badge/PORTFOLIO-06B6D4?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
 </a>
-&nbsp;
 <a href="https://www.linkedin.com/in/punith-h-singh">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=22D3EE"/>
 </a>
-&nbsp;
 <a href="mailto:punithsingh18@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=22D3EE"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=flat-square&color=22D3EE&label=PROFILE+VIEWS" alt="Profile views"/>
 
 </div>
-
-<br>
 
 ---
 
-<div align="center">
-
-### `> whoami`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=4000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Software+%26+Systems+Builder;Backend+%26+Cloud+Enthusiast;Curious+about+AI%2C+Security+%26+Distributed+Systems" />
-
-</div>
-
-<br>
-
-<div align="center">
+## `01` — About Me
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="60%" valign="top">
 
-### ⚡ About Me
+I'm a **Computer Science Engineer** who enjoys building software across the stack.
 
-I'm a Computer Science Engineer who enjoys building software across the stack.
+My focus is on creating **clean, scalable and reliable applications** — from frontend interfaces and backend APIs to databases, cloud infrastructure and automation.
 
-I work with **frontend interfaces, backend systems, APIs, databases, cloud infrastructure, and automation** — with a growing interest in AI and cybersecurity.
+I like understanding how systems work end-to-end and turning ideas into products that people can actually use.
 
-<br>
+<br/>
 
-```text
-┌─────────────────────────────┐
-│  BUILD  →  SHIP  →  LEARN  │
-└─────────────────────────────┘
-```
+**Currently interested in**
+
+* Full-Stack Engineering
+* Backend & API Development
+* Cloud & DevOps
+* AI-powered applications
+* Cybersecurity
+* Distributed systems
 
 </td>
 
-<td width="50%" valign="top">
-
-### 🧠 What I Work With
+<td width="40%" valign="top">
 
 ```text
-Frontend       React · Next.js
-Backend        Node · Flask · Express
-Languages      Python · JavaScript · Java · Go
-Databases      MySQL · MongoDB · Firebase
-Cloud          AWS · IBM Cloud
-DevOps         Docker · Kubernetes · Jenkins
-Other          Git · REST APIs · Linux
+╭─────────────────────────╮
+│       PUNITH.SYS        │
+├─────────────────────────┤
+│                         │
+│  BUILD       ✓          │
+│  LEARN       ✓          │
+│  SHIP        ✓          │
+│  REPEAT      ∞          │
+│                         │
+╰─────────────────────────╯
 ```
 
 </td>
 </tr>
 </table>
 
+---
+
+## `02` — Tech Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://img.shields.io/badge/Python-0F172A?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/JavaScript-0F172A?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Java-0F172A?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/Go-0F172A?style=for-the-badge&logo=go&logoColor=00ADD8"/>
+<img src="https://img.shields.io/badge/SQL-0F172A?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+
+### Frontend
+
+<img src="https://img.shields.io/badge/React-0F172A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Next.js-0F172A?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4"/>
+
+### Backend
+
+<img src="https://img.shields.io/badge/Node.js-0F172A?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-0F172A?style=for-the-badge&logo=express&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Flask-0F172A?style=for-the-badge&logo=flask&logoColor=FFFFFF"/>
+
+### Cloud · DevOps · Data
+
+<img src="https://img.shields.io/badge/AWS-0F172A?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/Docker-0F172A?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Kubernetes-0F172A?style=for-the-badge&logo=kubernetes&logoColor=326CE5"/>
+<img src="https://img.shields.io/badge/Jenkins-0F172A?style=for-the-badge&logo=jenkins&logoColor=D24939"/>
+<img src="https://img.shields.io/badge/MongoDB-0F172A?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/MySQL-0F172A?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Firebase-0F172A?style=for-the-badge&logo=firebase&logoColor=FFCA28"/>
+
 </div>
 
 ---
 
-<br>
-
-<div align="center">
-
-## ⚙️ TECH ARSENAL
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=python,js,java,go,react,nextjs,nodejs,express,flask,tailwind,mongodb,mysql,firebase,aws,docker,kubernetes,jenkins,git,github,linux&perline=10" />
-
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=postman,vscode,figma,androidstudio&perline=10" />
-
-</div>
-
-<br>
-
----
-
-## 🚀 Selected Projects
-
-<div align="center">
+## `03` — Things I've Built
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🛡️ ZenShield
 
-**Android productivity & notification management**
+**Android productivity application**
 
-An Android application designed to help users reduce digital distractions through notification management, focus sessions and activity tracking.
-
-<br>
+A notification management and focus application designed to reduce distractions and help users maintain focused sessions.
 
 `Kotlin` `Jetpack Compose` `Android`
 
@@ -131,29 +128,23 @@ An Android application designed to help users reduce digital distractions throug
 
 ### 🤖 CareerForge AI
 
-**AI-powered career toolkit**
+**AI-powered career platform**
 
-A platform focused on resume generation, cover letters and job-specific application optimization.
-
-<br>
+A platform focused on generating resumes and cover letters while helping tailor applications to specific job requirements.
 
 `React` `Firebase` `AI`
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🌐 OmniConverter
 
 **Modern conversion platform**
 
-A responsive web application designed around fast conversions and a clean, modern interface.
-
-<br>
+A clean web application for handling different conversion utilities with a responsive interface.
 
 `React` `JavaScript` `Tailwind`
 
@@ -163,107 +154,94 @@ A responsive web application designed around fast conversions and a clean, moder
 
 ### 🛰️ Satellite Tracker
 
-**Real-time orbital visualization**
+**Interactive orbital visualization**
 
-Interactive satellite tracking with orbital data and 3D visualization.
-
-<br>
+A web application for tracking satellites and visualizing orbital information.
 
 `React` `Three.js` `satellite.js`
 
 </td>
-
 </tr>
 </table>
 
-</div>
-
 ---
 
-<div align="center">
-
-## 🔥 CURRENTLY EXPLORING
-
-<br>
-
-<img src="https://img.shields.io/badge/AI_ENGINEERING-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/CLOUD_ARCHITECTURE-111827?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-<img src="https://img.shields.io/badge/CYBERSECURITY-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-<img src="https://img.shields.io/badge/DISTRIBUTED_SYSTEMS-111827?style=for-the-badge&logo=apachekafka&logoColor=white" />
-<img src="https://img.shields.io/badge/ANDROID-111827?style=for-the-badge&logo=android&logoColor=3DDC84" />
-
-</div>
-
-<br>
-
----
-
-## 📊 GitHub Activity
+## `04` — What I'm Exploring
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=00000000&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=00000000&title_color=22D3EE&text_color=94A3B8" height="180"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=00000000&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="70%"/>
+```text
+        ┌──────────────────────────────────────────┐
+        │                                          │
+        │   AI ENGINEERING                         │
+        │        ↓                                 │
+        │   BACKEND ARCHITECTURE                   │
+        │        ↓                                 │
+        │   CLOUD & DEVOPS                         │
+        │        ↓                                 │
+        │   CYBERSECURITY                          │
+        │        ↓                                 │
+        │   DISTRIBUTED SYSTEMS                    │
+        │                                          │
+        └──────────────────────────────────────────┘
+```
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+## `05` — GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/output/github-contribution-grid-snake.svg" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&theme=transparent&title_color=22D3EE&icon_color=22D3EE&text_color=94A3B8&hide_title=false" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&theme=transparent&title_color=22D3EE&text_color=94A3B8" width="42%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=Punith-Singh&theme=transparent&hide_border=true&ring=22D3EE&fire=06B6D4&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" width="70%" />
 
 </div>
 
 ---
 
+## `06` — Contribution Graph
+
 <div align="center">
 
-## 💻 A LITTLE MORE ABOUT ME
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=650&lines=I+like+clean+architecture.;I+enjoy+breaking+things+to+understand+them.;I+build+tools+that+solve+real+problems.;Currently+turning+ideas+into+working+products." />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Punith-Singh&bg_color=0F172A&color=94A3B8&line=22D3EE&point=FFFFFF&area=true&hide_border=true" width="95%" />
 
 </div>
 
-<br>
-
 ---
 
-<div align="center">
+## `07` — Connect
 
-### `CONNECT`
+<div align="center">
 
 <a href="https://github.com/Punith-Singh">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-View%20Profile-0F172A?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
 <a href="https://www.linkedin.com/in/punith-h-singh">
-<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
 
 <a href="https://punith-singh.github.io/mywebsite">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-Explore-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE"/>
 </a>
 
-<br><br>
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=for-the-badge&label=PROFILE+VIEWS&color=06B6D4" />
+<br/>
 
-<br><br>
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:111827,100:0f172a&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=3500&pause=1000&color=64748B&center=true&vCenter=true&width=600&lines=Build+something+useful.;Make+it+beautiful.;Keep+learning.;Ship+it." />
+
+<br/><br/>
+
+**`Code · Build · Learn · Repeat`**
 
 </div>
