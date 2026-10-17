@@ -1,226 +1,242 @@
- <div align="center">
+<!--
+  PUNITH H SINGH — GitHub Profile README
+  Design: Monochrome Engineering Terminal
+  Replace any project links with exact repository URLs when available.
+-->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:030712,40:0B2538,75:075985,100:020617&height=12&section=header" alt="Cyan separator"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=2600&pause=900&color=888888&center=true&vCenter=true&repeat=true&width=600&height=28&lines=%24+initializing+punith.h.singh...;%24+loading+engineering+profile...;%24+status%3A+building%2C+debugging%2C+improving." alt="Animated terminal introduction" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=1800&pause=600&color=67E8F9&center=true&vCenter=true&width=650&height=30&lines=ORBITAL+ENGINEERING+DIVISION;%2F%2F+OPERATOR+PUNITH+H+SINGH;%2F%2F+SYSTEMS+THINKING+IN+PROGRESS" alt="Orbital system identification"/>
+# `punith@engineering`
 
-# P U N I T H &nbsp; H &nbsp; S I N G H
+**SOFTWARE · SYSTEMS · AUTOMATION**
 
-### SOFTWARE · INFRASTRUCTURE · AUTOMATION
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:164E63,100:020617&height=2&section=header" width="100%" alt="Section separator"/>
+<sub>Computer Science Engineer &nbsp; / &nbsp; Operations Analyst &nbsp; / &nbsp; Developer</sub>
 
 <br/>
 
-<a href="https://github.com/Punith-Singh"><img src="https://img.shields.io/badge/01_SOURCE_CODE-67E8F9?style=flat-square&labelColor=07111F&logo=github&logoColor=67E8F9" alt="Source code"/></a>
-<a href="https://linkedin.com/in/punith-h-singh"><img src="https://img.shields.io/badge/02_NETWORK-67E8F9?style=flat-square&labelColor=07111F&logo=linkedin&logoColor=67E8F9" alt="Professional network"/></a>
-<a href="https://punith-singh.github.io/mywebsite"><img src="https://img.shields.io/badge/03_INTERFACE-67E8F9?style=flat-square&labelColor=07111F&logo=googlechrome&logoColor=67E8F9" alt="Portfolio"/></a>
+[GitHub](https://github.com/Punith-Singh) &nbsp;·&nbsp;
+[Portfolio](https://punith-singh.github.io/mywebsite) &nbsp;·&nbsp;
+[LinkedIn](https://linkedin.com/in/punith-h-singh)
 
 </div>
+
+---
+
+```text
+┌─ IDENTITY ────────────────────────────────────────────────────┐
+│                                                               │
+│  NAME       Punith H Singh                                    │
+│  DOMAIN     Software Engineering / Systems / Operations       │
+│  APPROACH   Understand → Instrument → Debug → Improve         │
+│  INTERESTS  Backend systems, automation, Android, cloud        │
+│                                                               │
+└───────────────────────────────────────────────────────────────┘
+```
+
+## `01 / current_context`
+
+I work across **operations, debugging, data, and application behavior**. My interests extend from investigating production issues and writing SQL to building applications and exploring cloud-native tooling.
+
+I enjoy understanding how systems behave, identifying the actual cause of a problem, and building practical solutions rather than stopping at surface-level fixes.
+
+```bash
+$ whoami
+punith-h-singh
+
+$ focus --current
+operations | debugging | sql | application engineering
+
+$ focus --building
+android applications | python projects | automation
+
+$ status
+actively learning / building / iterating
+```
+
+## `02 / system_map`
+
+<div align="center">
+
+```text
+                    ┌──────────────────────┐
+                    │   PROBLEM STATEMENT  │
+                    └──────────┬───────────┘
+                               │
+             ┌─────────────────┼─────────────────┐
+             ▼                 ▼                 ▼
+      ┌─────────────┐   ┌─────────────┐   ┌─────────────┐
+      │   ANALYZE   │   │    BUILD    │   │  AUTOMATE   │
+      │ SQL / Logs  │   │ Python/Kotlin│  │ CI/CD/Cloud │
+      └──────┬──────┘   └──────┬──────┘   └──────┬──────┘
+             │                 │                 │
+             └─────────────────┼─────────────────┘
+                               ▼
+                    ┌──────────────────────┐
+                    │  TEST / DEBUG / SHIP │
+                    └──────────────────────┘
+```
+
+</div>
+
+## `03 / selected_projects`
+
+<sub>PROJECT INDEX &nbsp; · &nbsp; APPLICATIONS &nbsp; · &nbsp; AUTOMATION &nbsp; · &nbsp; ANALYSIS</sub>
+
+### `P01` — ZenShield
+
+**Android · Kotlin · Jetpack Compose**
+
+A distraction-management application designed to help users manage notifications and focus sessions.
+
+- Scheduled notification filtering and focus sessions.
+- Native Android UI with Jetpack Compose.
+- Focus activity and distraction tracking.
+
+`ANDROID` &nbsp; `KOTLIN` &nbsp; `JETPACK COMPOSE`
+
+[Explore my repositories ↗](https://github.com/Punith-Singh?tab=repositories)
+
+---
+
+### `P02` — OmniConverter
+
+**Utility application · Conversion workflows**
+
+A conversion-focused project built around a simple goal: make common conversion tasks accessible through a practical interface.
+
+`APPLICATION DEVELOPMENT` &nbsp; `UI/UX`
+
+[Explore my repositories ↗](https://github.com/Punith-Singh?tab=repositories)
+
+---
+
+### `P03` — Chatbot Application
+
+**Python · Flask · Oracle SQL**
+
+A chatbot application integrating a Python Flask backend with an Oracle SQL database.
+
+- Backend request handling.
+- Database integration.
+- Structured application logic.
+
+`PYTHON` &nbsp; `FLASK` &nbsp; `ORACLE SQL`
+
+[Explore my repositories ↗](https://github.com/Punith-Singh?tab=repositories)
+
+---
+
+### `P04` — Train Management System
+
+**Python · Flask · Oracle SQL**
+
+A train management project covering ticket booking and reservation workflows.
+
+- Ticket booking and reservation management.
+- Backend application logic.
+- Relational database integration.
+
+`PYTHON` &nbsp; `FLASK` &nbsp; `SQL`
+
+[Explore my repositories ↗](https://github.com/Punith-Singh?tab=repositories)
+
+---
+
+### `P05` — Vehicle Speed Tracker
+
+**Python · OpenCV · Matplotlib**
+
+A computer-vision project focused on vehicle speed tracking and traffic analysis.
+
+- Video-based vehicle analysis.
+- OpenCV-based image processing.
+- Visualization and analysis using Matplotlib.
+
+`PYTHON` &nbsp; `OPENCV` &nbsp; `COMPUTER VISION`
+
+[Explore my repositories ↗](https://github.com/Punith-Singh?tab=repositories)
+
+## `04 / technical_stack`
+
+Tools I have worked with across application development, operations, testing, and cloud infrastructure.
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**/ languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,kotlin,sql&theme=dark" alt="Python, Java, Kotlin and SQL" />
+
+**/ application development**
+
+<img src="https://skillicons.dev/icons?i=flask,androidstudio&theme=dark" alt="Flask and Android Studio" />
+
+</td>
+<td width="50%" valign="top">
+
+**/ infrastructure & tooling**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,git,github&theme=dark" alt="AWS, Docker, Kubernetes, Jenkins, Git and GitHub" />
+
+**/ data & testing**
+
+`Databricks` &nbsp; `Postman` &nbsp; `SQL` &nbsp; `Datadog`
+
+</td>
+</tr>
+</table>
+
+## `05 / github_telemetry`
+
+<sub>PUBLIC PROFILE METRICS &nbsp; · &nbsp; Generated by external services</sub>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=00000000&title_color=999999&text_color=999999&icon_color=BBBBBB&ring_color=BBBBBB&include_all_commits=true" alt="GitHub contribution statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=00000000&title_color=999999&text_color=999999&langs_count=8" alt="Most used programming languages" />
 
 <br/>
 
-<table>
-<tr>
-<td width="58%" valign="middle">
-
-<sub>IDENTITY / 001</sub>
-
-## Engineering beyond the interface.
-
-Computer Science Engineer interested in building useful software, debugging complex systems, automating workflows, and exploring intelligent applications.
-
-I work across application development, databases, APIs, and cloud technologies—with an emphasis on understanding how the pieces connect.
-
-**Areas of exploration**
-
-`APPLICATIONS` `CLOUD` `DEVOPS` `AI`
-
-</td>
-<td width="42%" align="center" valign="middle">
-
-<img src="https://media.githubusercontent.com/media/Punith-Singh/Punith-Singh/main/assets/orbital-core.gif" width="100%" alt="Orbital animated core" />
-
-<sub>ORBITAL CORE / OPTIONAL LOCAL ASSET</sub>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<sub>CAPABILITY MAP / ENGINEERING TOOLCHAIN</sub>
+<img width="70%" src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=00000000&ring=999999&fire=BBBBBB&currStreakLabel=999999&sideLabels=999999&currStreakNum=CCCCCC&sideNums=CCCCCC&dates=777777" alt="GitHub contribution streak" />
 
 </div>
 
-<table>
-<tr>
-<td align="center" width="25%">
+## `06 / operating_principles`
 
-<img src="https://skillicons.dev/icons?i=python,java,go&theme=dark" alt="Programming languages"/>
+```text
+[01]  DEBUG THE ROOT CAUSE
+      Understand the failure before changing the system.
 
-**COMPUTE**
+[02]  AUTOMATE REPEATABLE WORK
+      Prefer reliable workflows over repetitive manual effort.
 
-<sub>Python · Java · Go</sub>
+[03]  BUILD TO LEARN
+      Turn concepts into working applications and experiments.
 
-</td>
-<td align="center" width="25%">
+[04]  KEEP ITERATING
+      Measure, improve, test, and repeat.
+```
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js&theme=dark" alt="Frontend technologies"/>
+## `07 / establish_connection`
 
-**INTERFACE**
-
-<sub>React · Next.js · JS</sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=flask,nodejs,mongodb&theme=dark" alt="Backend technologies"/>
-
-**BACKEND**
-
-<sub>Flask · Node · MongoDB</sub>
-
-</td>
-<td align="center" width="25%">
-
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes&theme=dark" alt="Infrastructure technologies"/>
-
-**SYSTEMS**
-
-<sub>AWS · Docker · K8s</sub>
-
-</td>
-</tr>
-</table>
-
----
+Have an interesting engineering problem, project, or opportunity?
 
 <div align="center">
 
-<sub>PROJECT CONSTELLATION / SELECTED BUILDS</sub>
+[**CONNECT ON LINKEDIN**](https://linkedin.com/in/punith-h-singh) &nbsp; / &nbsp;
+[**VIEW PORTFOLIO**](https://punith-singh.github.io/mywebsite) &nbsp; / &nbsp;
+[**BROWSE REPOSITORIES**](https://github.com/Punith-Singh?tab=repositories)
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=888888&center=true&vCenter=true&repeat=true&width=420&height=24&lines=%24+exit+0;%24+continue+building..." alt="Animated terminal outro" />
+
+<sub>ENGINEERED WITH CURIOSITY. REFINED THROUGH ITERATION.</sub>
 
 </div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ ZenShield
-
-**ANDROID / FOCUS SYSTEMS**
-
-A notification-management application designed to help users create distraction-free sessions using configurable schedules and notification filtering.
-
-<sub>KOTLIN · JETPACK COMPOSE</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Chatbot Application
-
-**BACKEND / DATA**
-
-A chatbot application integrating Python backend logic with Oracle SQL for structured data operations.
-
-<sub>PYTHON · FLASK · ORACLE SQL</sub>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Train Management
-
-**BOOKING / TRANSACTIONS**
-
-A train management application covering ticket booking, passenger information, and reservation workflows.
-
-<sub>FLASK · ORACLE SQL</sub>
-
-</td>
-<td width="50%" valign="top">
-
-### ◈ Vision Tracker
-
-**COMPUTER VISION / ANALYTICS**
-
-A vehicle tracking and traffic analysis project exploring speed estimation and visual data representation.
-
-<sub>PYTHON · OPENCV · MATPLOTLIB</sub>
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### ◈ OmniConverter
-
-A conversion-focused utility project centered on practical functionality and streamlined interaction.
-
-<sub>APPLICATION DEVELOPMENT</sub>
-
-<div align="center">
-
-[EXPLORE ALL REPOSITORIES →](https://github.com/Punith-Singh?tab=repositories)
-
-</div>
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-<sub>TELEMETRY / GITHUB ACTIVITY</sub>
-
-<br/><br/>
-
-<a href="https://github.com/Punith-Singh"><img width="48%" src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=07111F&title_color=67E8F9&icon_color=A78BFA&text_color=D8E7F5&rank_icon=github" alt="GitHub statistics"/></a>
-<a href="https://github.com/Punith-Singh"><img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=07111F&title_color=67E8F9&text_color=D8E7F5&langs_count=6" alt="Language statistics"/></a>
-
-<br/><br/>
-
-<a href="https://github.com/Punith-Singh"><img width="75%" src="https://streak-stats.demolab.com/?user=Punith-Singh&hide_border=true&background=07111F&ring=67E8F9&fire=A78BFA&currStreakLabel=67E8F9&sideLabels=D8E7F5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8BA3B8" alt="Contribution streak"/></a>
-
-</div>
-
----
-
-<table>
-<tr>
-<td width="60%" valign="middle">
-
-<sub>INCOMING TRANSMISSION</sub>
-
-## Have something worth building?
-
-I'm interested in engineering challenges, learning opportunities, and collaborations that turn ideas into useful software.
-
-</td>
-<td width="40%" valign="middle" align="center">
-
-<a href="https://linkedin.com/in/punith-h-singh"><img src="https://img.shields.io/badge/CONNECT-67E8F9?style=for-the-badge&labelColor=07111F&logo=linkedin&logoColor=67E8F9" alt="Connect on LinkedIn"/></a>
-
-<br/><br/>
-
-<a href="mailto:punithsingh18@gmail.com"><img src="https://img.shields.io/badge/CONTACT-ME-67E8F9?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=67E8F9" alt="Email"/></a>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=13&duration=2200&pause=800&color=67E8F9&center=true&vCenter=true&width=500&height=30&lines=SIGNAL+RECEIVED.;NEXT+ITERATION+LOADING...;END+OF+TRANSMISSION." alt="Animated transmission ending"/>
-
-<sub>ORBITAL ENGINEERING DIVISION · BUILD / LEARN / REPEAT</sub>
-
-</div>
-
