@@ -1,211 +1,165 @@
- <!-- PUNITH H SINGH | CYBER ENGINEERING PROFILE -->
+ <div align="center">
 
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,30:111827,65:164E63,100:06B6D4&height=200&section=header&text=PUNITH%20H%20SINGH&fontSize=43&fontColor=E0F2FE&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%2F%20CLOUD%20%2F%20AUTOMATION&descSize=12&descAlignY=58&animation=fadeIn" alt="Futuristic animated header"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,35:111C42,70:007F9E,100:00F5FF&text=PUNITH%20H%20SINGH&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=SOFTWARE%20ENGINEERING%20%2F%20CLOUD%20%2F%20AUTOMATION&descSize=13&descAlignY=58&animation=fadeIn" alt="Animated cyber-themed profile header"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=760&height=55&lines=%3E+Initializing+developer+profile...;%3E+Full-Stack+Engineering+%7C+Cloud+%7C+DevOps;%3E+Debugging+systems.+Automating+workflows.;%3E+Turning+ideas+into+real+applications.;%3E+Always+learning.+Always+building." alt="Animated terminal introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=800&color=22D3EE&center=true&vCenter=true&width=700&height=45&lines=%3E+Engineering+ideas+into+reality;%3E+Full+Stack+%7C+Cloud+%7C+DevOps;%3E+Automate.+Optimize.+Innovate.;%3E+Building+what+comes+next." alt="Animated typing introduction"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ENGINEERING-FOCUSED-00F5FF?style=for-the-badge&labelColor=080D1A" alt="Engineering focused"/>
-<img src="https://img.shields.io/badge/MINDSET-CONTINUOUS%20LEARNING-8B5CF6?style=for-the-badge&labelColor=080D1A" alt="Continuous learning"/>
-<img src="https://img.shields.io/badge/STATUS-BUILDING-00D68F?style=for-the-badge&labelColor=080D1A" alt="Building"/>
-
-<br/><br/>
-
-[ LinkedIn ](https://linkedin.com/in/punith-h-singh) · [ Portfolio ](https://punith-singh.github.io/mywebsite) · [ Repositories ](https://github.com/Punith-Singh?tab=repositories)
+<a href="https://github.com/Punith-Singh"><img src="https://img.shields.io/badge/GitHub-Explore%20Code-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://linkedin.com/in/punith-h-singh"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://punith-singh.github.io/mywebsite"><img src="https://img.shields.io/badge/Portfolio-Enter%20System-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 </div>
 
 ---
 
-## `01` — SYSTEM IDENTITY
+### `01` / WHO AM I?
 
 ```text
-┌─────────────────────────────────────────────────┐
-│  DEVELOPER PROFILE                       ONLINE │
-├─────────────────────────────────────────────────┤
-│  Name       : Punith H Singh                    │
-│  Background : Computer Science Engineering      │
-│  Focus      : Software & Cloud Engineering      │
-│  Interests  : AI / Automation / Security        │
-│  Approach   : Analyze → Engineer → Improve      │
-└─────────────────────────────────────────────────┘
+IDENTITY    Punith H Singh
+BACKGROUND Computer Science Engineering
+SPECIALTY  Application Development & Automation
+EXPLORING  Cloud Engineering · AI · Security
+OBJECTIVE  Build reliable, practical software
 ```
 
-I'm a Computer Science Engineer who enjoys building practical applications, investigating technical issues, and understanding systems from end to end.
+I enjoy engineering applications, debugging complex issues, working with data, and automating repetitive workflows. My interests span full-stack development, cloud-native infrastructure, and intelligent applications.
 
-My experience spans application development, SQL, API testing, operational debugging, cloud technologies, and automation. I'm interested in combining these areas to create software that is useful, maintainable, and reliable.
-
-- `01` — Developing backend services and web applications.
-- `02` — Exploring cloud-native technologies and containerization.
-- `03` — Troubleshooting production issues and working with data.
-- `04` — Experimenting with AI-powered tools and security concepts.
+- Developing backend services and web applications.
+- Working with SQL, APIs, and application troubleshooting.
+- Exploring containerization, cloud platforms, and CI/CD.
+- Building projects that combine usability with practical engineering.
 
 ---
 
-## `02` — TECH STACK MATRIX
+### `02` / TECHNOLOGY GRID
 
 <div align="center">
 
-### PROGRAMMING
+**01 — LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=python,java,js,go&theme=dark" alt="Programming languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,js,go&theme=dark" alt="Python, Java, JavaScript and Go"/>
 
-### FRONTEND SYSTEMS
+**02 — FRONTEND**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend technology stack"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="React, Next.js, HTML, CSS and Tailwind"/>
 
-### BACKEND & DATA
+**03 — BACKEND & DATABASES**
 
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express,mongodb,mysql,oracle,firebase&theme=dark" alt="Backend and database stack"/>
+<img src="https://skillicons.dev/icons?i=flask,nodejs,express,mongodb,mysql,oracle,firebase&theme=dark" alt="Backend and database technologies"/>
 
-### CLOUD & INFRASTRUCTURE
+**04 — INFRASTRUCTURE & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,postman&theme=dark" alt="Cloud and DevOps stack"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,linux,git,github,postman&theme=dark" alt="Cloud, DevOps and development tools"/>
 
 <br/>
 
 <img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat-square&logo=ibmcloud&logoColor=white" alt="IBM Cloud"/>
 <img src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white" alt="Databricks"/>
-<img src="https://img.shields.io/badge/SQL-00B8D9?style=flat-square&logo=databricks&logoColor=white" alt="SQL"/>
-<img src="https://img.shields.io/badge/API%20Testing-6E40C9?style=flat-square&logo=postman&logoColor=white" alt="API testing"/>
+<img src="https://img.shields.io/badge/SQL-0EA5E9?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/API%20Testing-8B5CF6?style=flat-square&logo=postman&logoColor=white" alt="API testing"/>
 
 </div>
 
 ---
 
-## `03` — PROJECT DEPLOYMENT BAY
+### `03` / PROJECT ARCHIVE
 
-<details>
-<summary><b>01 / ZenShield — Android Focus Application</b></summary>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Stack:** Kotlin · Jetpack Compose · Android
+**01. ZenShield**
 
-An Android application designed to help users manage notifications and create distraction-free sessions.
+`ANDROID / KOTLIN`
 
-- Configurable focus schedules.
-- Notification filtering and blocking.
-- Focus activity tracking.
-- Privacy-conscious design.
+A focus and distraction-management app with configurable schedules and notification filtering.
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>02 / Chatbot Application</b></summary>
+**02. Chatbot Application**
 
-**Stack:** Python · Flask · Oracle SQL
+`PYTHON / FLASK`
 
-A chatbot project integrating backend logic with a relational database to process requests and manage structured information.
+A chatbot backend integrated with Oracle SQL for structured data operations.
 
-</details>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>03 / Train Management System</b></summary>
+**03. Train Management**
 
-**Stack:** Python · Flask · Oracle SQL
+`FLASK / ORACLE SQL`
 
-A reservation-oriented application supporting train information, ticket booking, and passenger reservation workflows.
+Train information, ticket booking, and passenger reservation workflows.
 
-</details>
+</td>
+<td width="50%" valign="top">
 
-<details>
-<summary><b>04 / Vehicle Speed Tracker & Traffic Analysis</b></summary>
+**04. Vehicle Speed Tracker**
 
-**Stack:** Python · OpenCV · Matplotlib
+`PYTHON / OPENCV`
 
-A computer-vision project exploring vehicle tracking, speed analysis, and traffic-data visualization.
+Vehicle tracking, speed analysis, and traffic-data visualization.
 
-</details>
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-<details>
-<summary><b>05 / OmniConverter</b></summary>
+**05. OmniConverter**
 
-A utility-focused conversion project built around a streamlined user experience and practical software development.
+`SOFTWARE / UTILITIES`
 
-</details>
+A conversion-focused utility project with an emphasis on a streamlined user experience.
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-[![Explore projects](https://img.shields.io/badge/ACCESS%20PROJECTS-00F5FF?style=for-the-badge&logo=github&logoColor=black&labelColor=080D1A)](https://github.com/Punith-Singh?tab=repositories)
+<a href="https://github.com/Punith-Singh?tab=repositories"><img src="https://img.shields.io/badge/VIEW%20ALL%20PROJECTS-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="View all projects"/></a>
 
 </div>
 
 ---
 
-## `04` — LIVE TERMINAL
+### `04` / DEVELOPER CONSOLE
+
+<img width="100%" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=1800&pause=500&color=34D399&vCenter=true&width=750&height=100&lines=%24+git+status;%3E+Analyzing+the+problem...;%3E+Writing+the+solution...;%3E+Testing+edge+cases...;%3E+Ready+for+the+next+commit." alt="Animated developer terminal"/>
 
 ```python
-from datetime import datetime
+class Engineer:
+    focus = ["Software", "Cloud", "Automation", "AI"]
 
-class Punith:
-    role = "Software Engineer"
-    interests = ["Cloud", "DevOps", "AI", "Automation"]
-
-    def execute(self, idea):
-        print(f"[{datetime.now():%H:%M:%S}] Initializing: {idea}")
-        print("[OK] Learn")
-        print("[OK] Build")
-        print("[OK] Test")
-        print("[OK] Improve")
-
-developer = Punith()
-developer.execute("The next big idea")
+    def improve(self, problem):
+        solution = self.analyze(problem)
+        self.test(solution)
+        return self.refine(solution)
 ```
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=650&height=40&lines=%5BOK%5D+Curiosity+loaded;%5BOK%5D+Problem-solving+enabled;%5BOK%5D+Automation+in+progress;%3E+Waiting+for+the+next+challenge..." alt="Animated terminal status"/>
-
-</div>
-
 ---
 
-## `05` — GITHUB ACTIVITY
+### `05` / CONNECT TO THE NETWORK
 
 <div align="center">
 
-<a href="https://github.com/Punith-Singh">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=080D1A&title_color=00F5FF&icon_color=8B5CF6&text_color=D7E3F4&rank_icon=github" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/Punith-Singh">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=080D1A&title_color=00F5FF&text_color=D7E3F4&langs_count=6" alt="Most-used programming languages"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&height=40&lines=Open+to+ideas+and+collaboration.;Let's+build+something+meaningful.;One+commit+at+a+time." alt="Animated connection message"/>
 
 <br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=080D1A&ring=00F5FF&fire=8B5CF6&currStreakLabel=00F5FF&sideLabels=D7E3F4&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A94A6" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
-## `06` — ESTABLISH CONNECTION
-
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&height=40&lines=Have+an+interesting+engineering+challenge%3F;Let's+build+something+meaningful.;Open+to+learning%2C+collaboration%2C+and+ideas." alt="Animated collaboration message"/>
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/punith-h-singh)
-[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punithsingh18@gmail.com)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://punith-singh.github.io/mywebsite)
+<a href="https://linkedin.com/in/punith-h-singh"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:punithsingh18@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://punith-singh.github.io/mywebsite"><img src="https://img.shields.io/badge/PORTFOLIO-Explore-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Punith-Singh&style=flat-square&color=00F5FF&label=PROFILE+VIEWS" alt="Profile views"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:164E63,100:030712&height=120&section=footer&animation=fadeIn" alt="Animated closing banner"/>
 
-<br/><br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:111C42,100:050816&height=120&section=footer&animation=fadeIn" alt="Animated footer"/>
-
-**`BUILD. BREAK. DEBUG. REBUILD.`**
-
-<sub>Every system has a better version waiting to be engineered.</sub>
+**`THINK. BUILD. DEBUG. EVOLVE.`**
 
 </div>
