@@ -6,7 +6,7 @@
 
 # P U N I T H&nbsp; H&nbsp; S I N G H
 
-### `ENGINEERING / OPERATIONS / DEVELOPMENT`
+### `ENGINEERING / DEVELOPMENT`
 
 `CSE` &nbsp; `APPLICATION DEBUGGING` &nbsp; `BACKEND` &nbsp; `ANDROID`
 
