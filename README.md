@@ -8,7 +8,7 @@
 
 ### `ENGINEERING / DEVELOPMENT`
 
-`CSE` &nbsp; `APPLICATION DEBUGGING` &nbsp; `BACKEND` &nbsp; `ANDROID`
+`DevOps` &nbsp; `APPLICATION DEBUGGIN` &nbsp; `BACKEND` &nbsp; `AI`
 
 [GitHub](https://github.com/Punith-Singh) &nbsp; / &nbsp; [Portfolio](https://punith-singh.github.io/mywebsite) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/punith-h-singh)
 
