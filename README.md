@@ -33,7 +33,7 @@ Currently focused on:
 
 ```yaml
 identity: Punith H Singh
-role: Operations Analyst (Consultant)
+role: Analyst (Consultant)
 environment:
   - applications
   - data
