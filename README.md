@@ -18,7 +18,7 @@
 
 ### `// PROFILE`
 
-I'm an **Operations Analyst (Consultant) at CRED**, working hands-on with SQL, application logs, API testing, and Python scripts to investigate issues and support application operations.
+I'm an Analyst (Consultant) at CRED**, working hands-on with SQL, application logs, API testing, and Python scripts to investigate issues and support application operations.
 
 I use **Datadog, Databricks, and Postman** in my work. Alongside this, I build Python and Android projects, with previous DevOps internship experience using AWS, Docker, and Kubernetes.
 
