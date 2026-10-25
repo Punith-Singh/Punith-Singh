@@ -8,7 +8,7 @@
 
 ### `ENGINEERING / DEVELOPMENT`
 
-`DevOps` &nbsp; `APPLICATION DEBUGGIN` &nbsp; `BACKEND` &nbsp; `AI`
+`DevOps` &nbsp; `APPLICATION DEBUGGING` &nbsp; `BACKEND` &nbsp; `AI`
 
 [GitHub](https://github.com/Punith-Singh) &nbsp; / &nbsp; [Portfolio](https://punith-singh.github.io/mywebsite) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/punith-h-singh)
 
@@ -16,13 +16,11 @@
 
 ---
 
-<table>
-<tr>
-<td width="58%" valign="top">
-
 ### `// PROFILE`
 
-I work at the intersection of **application operations and software engineering**—investigating issues, analyzing data, and building practical tools.
+I'm an **Operations Analyst (Consultant) at CRED**, working hands-on with SQL, application logs, API testing, and Python scripts to investigate issues and support application operations.
+
+I use **Datadog, Databricks, and Postman** in my work. Alongside this, I build Python and Android projects, with previous DevOps internship experience using AWS, Docker, and Kubernetes.
 
 Currently focused on:
 
@@ -31,14 +29,11 @@ Currently focused on:
 - Native Android development with Kotlin
 - Cloud infrastructure and developer tooling
 
-</td>
-<td width="42%" valign="top">
-
 ### `// SYSTEM STATUS`
 
 ```yaml
 identity: Punith H Singh
-role: Analyst
+role: Operations Analyst (Consultant)
 environment:
   - applications
   - data
@@ -48,45 +43,27 @@ building:
 approach: iterative
 ```
 
-</td>
-</tr>
-</table>
-
 ## `01` — PROJECT ARCHIVE
 
-<text>Selected builds · experiments · engineering work</text>
-
-<table>
-<tr>
-<td width="50%" valign="top">
+Selected builds · experiments · engineering work
 
 ### `01 / ZENSHIELD`
 
 **Focus management · Android**
 
-A native Android application for managing notifications and focus sessions.
+A native Android app with schedule-based notification blocking, app-specific rules, and custom focus sessions.
 
 `KOTLIN` `COMPOSE` `ANDROID`
-
-[↗ Browse repositories](https://github.com/Punith-Singh?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
 
 ### `02 / OMNICONVERTER`
 
 **Utility · Application development**
 
-A conversion-focused application built around practical workflows and a streamlined user experience.
+A browser toolkit for image compression, format conversion, resizing, watermarking, and PDF creation, with utilities for Lottie previews, Base64, and QR codes.
 
-`APPLICATIONS` `UI/UX`
+`JAVASCRIPT` `BROWSER TOOLS` `UI/UX`
 
-[↗ Browse repositories](https://github.com/Punith-Singh?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+*Source repository is private.*
 
 ### `03 / CHATBOT`
 
@@ -96,10 +73,7 @@ A Python Flask chatbot backed by Oracle SQL.
 
 `PYTHON` `FLASK` `ORACLE SQL`
 
-[↗ Browse repositories](https://github.com/Punith-Singh?tab=repositories)
-
-</td>
-<td width="50%" valign="top">
+[↗ View source](https://github.com/Punith-Singh/chatbot)
 
 ### `04 / TRAIN MANAGEMENT`
 
@@ -109,26 +83,15 @@ A train management application covering ticket booking and reservations.
 
 `PYTHON` `FLASK` `SQL`
 
-[↗ Browse repositories](https://github.com/Punith-Singh?tab=repositories)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
 ### `05 / VEHICLE SPEED TRACKER`
 
 **Computer vision · Traffic analysis**
 
-Vehicle tracking and speed-analysis experiments using OpenCV and Matplotlib.
+Processes video to track vehicles, estimate speed between two reference lines, flag overspeeding, save cropped vehicle images, and visualize traffic data.
 
 `PYTHON` `OPENCV` `MATPLOTLIB`
 
-[↗ Browse repositories](https://github.com/Punith-Singh?tab=repositories)
-
-</td>
-</tr>
-</table>
+[↗ View source](https://github.com/Punith-Singh/Speed-Detection-System)
 
 ## `02` — TECHNOLOGY MATRIX
 
@@ -138,41 +101,31 @@ Vehicle tracking and speed-analysis experiments using OpenCV and Matplotlib.
 
 </div>
 
-<table>
-<tr>
-<td width="33%" valign="top">
-
 **DATA**
 
 SQL · Oracle SQL · Databricks
-
-</td>
-<td width="33%" valign="top">
 
 **OBSERVABILITY & TESTING**
 
 Datadog · Postman
 
-</td>
-<td width="33%" valign="top">
-
 **INFRASTRUCTURE**
 
 AWS · Docker · Kubernetes · Jenkins
-
-</td>
-</tr>
-</table>
 
 ## `03` — REPOSITORY TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=cccccc&include_all_commits=true" width="49%" alt="GitHub statistics" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=8" width="49%" alt="Top programming languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=cccccc&include_all_commits=true" width="480" alt="GitHub statistics" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=777777" width="75%" alt="GitHub contribution streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=8" width="480" alt="Top programming languages" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=777777" width="480" alt="GitHub contribution streak" />
 
 </div>
 
