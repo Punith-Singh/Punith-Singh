@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:555555,100:111111&height=100&section=header&animation=fadeIn" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/punith-orbit.gif" width="100%" alt="Animated orbital dashboard for Punith H Singh" />
 
 <sub>APPLICATIONS &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; AUTOMATION</sub>
 
@@ -27,8 +27,6 @@ Outside work, I build Android apps, Python projects and web tools. I also bring 
 <br>
 
 ### `02 / FEATURED BUILD`
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=AAAAAA&width=490&height=27&lines=%3E+loading+featured+build...;%3E+ZenShield+%2F+focus+on+what+matters" alt="Featured build: ZenShield, focus on what matters" />
 
 <table>
 <tr>
@@ -107,7 +105,24 @@ A home for my projects, experience and experiments on the web.
 
 <br>
 
-### `04 / TOOLKIT`
+### `04 / INTERACTIVE LAB`
+
+Explore some of my interactive experiments:
+
+🎮 **[Tower of Hanoi](https://github.com/Punith-Singh/TowerofHanoi)** — a 3D puzzle visualization built with Three.js  
+📊 **[Sorting Visualizer](https://github.com/Punith-Singh/Sorting-Visualizer)** — watch sorting algorithms step by step  
+🎨 **[Portfolio Spray Studio](https://github.com/Punith-Singh/portfolio-spray-studio)** — a playful, interactive portfolio
+
+<sub>These links open the project repositories. See each project for instructions to run it.</sub>
+
+<br>
+
+### `05 / TOOLKIT`
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,kotlin,java,flask,androidstudio,aws,docker,kubernetes,jenkins,git&theme=dark&perline=10" alt="Python, Kotlin, Java, Flask, Android Studio, AWS, Docker, Kubernetes, Jenkins and Git" />
+</div>
+
 
 | | What I work with |
 | :--- | :--- |
@@ -117,7 +132,7 @@ A home for my projects, experience and experiments on the web.
 
 <br>
 
-### `05 / GITHUB ACTIVITY`
+### `06 / GITHUB ACTIVITY`
 
 <div align="center">
 
@@ -141,7 +156,5 @@ A home for my projects, experience and experiments on the web.
 **Let’s build something useful.**
 
 [LinkedIn](https://linkedin.com/in/punith-h-singh) &nbsp; / &nbsp; [Portfolio](https://punith-singh.github.io/mywebsite)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:555555,100:111111&height=70&section=footer" width="100%" alt="" />
 
 </div>
