@@ -140,12 +140,17 @@ Explore some of my interactive experiments:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=cccccc&include_all_commits=true" alt="GitHub statistics" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top programming languages in public repositories" width="49%" />
+<sub>THE WORK BEHIND THE PROJECTS</sub>
 
-<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=0d1117&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=777777" alt="GitHub contribution streak" width="70%" />
+### Contribution streak
 
-<sub>Language statistics reflect public repositories, not a complete measure of skills.</sub>
+<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=0d1117&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=777777" alt="GitHub contribution streak" width="85%" />
+
+<sub>Contributions over time · updates automatically</sub>
+
+<br><br>
+
+[View contribution history and repositories ↗](https://github.com/Punith-Singh?tab=repositories)
 
 </div>
 
