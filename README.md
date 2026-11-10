@@ -107,7 +107,7 @@ A home for my projects, experience and experiments on the web.
 
 ### `04 / INTERACTIVE LAB`
 
-<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/interactive-lab.gif" width="100%" alt="Animated interactive lab graphic with orbiting points" />
+<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/arcade-lab.gif" width="100%" alt="Animated pixel arcade graphic for interactive projects" />
 
 Explore some of my interactive experiments:
 
@@ -136,7 +136,7 @@ Explore some of my interactive experiments:
 
 ### `06 / GITHUB ACTIVITY`
 
-<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/activity-signal.gif" width="100%" alt="Animated activity signal graphic" />
+<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/terminal-activity.gif" width="100%" alt="Animated terminal illustration" />
 
 <div align="center">
 
