@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:555555,100:111111&height=100&section=header&animation=fadeIn" width="100%" alt="" />
+
 <sub>APPLICATIONS &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; AUTOMATION</sub>
 
 # Punith H Singh
@@ -25,6 +27,8 @@ Outside work, I build Android apps, Python projects and web tools. I also bring 
 <br>
 
 ### `02 / FEATURED BUILD`
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2500&pause=1500&color=AAAAAA&width=490&height=27&lines=%3E+loading+featured+build...;%3E+ZenShield+%2F+focus+on+what+matters" alt="Featured build: ZenShield, focus on what matters" />
 
 <table>
 <tr>
@@ -130,12 +134,14 @@ A home for my projects, experience and experiments on the web.
 
 <div align="center">
 
-<sub>OBSERVE &nbsp; → &nbsp; UNDERSTAND &nbsp; → &nbsp; BUILD &nbsp; → &nbsp; ITERATE</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=13&duration=2600&pause=1000&color=999999&center=true&vCenter=true&width=530&height=30&lines=observe+%E2%86%92+understand+%E2%86%92+build+%E2%86%92+iterate;always+learning.+always+building." alt="Observe, understand, build, iterate. Always learning, always building." />
 
 <br><br>
 
 **Let’s build something useful.**
 
 [LinkedIn](https://linkedin.com/in/punith-h-singh) &nbsp; / &nbsp; [Portfolio](https://punith-singh.github.io/mywebsite)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:555555,100:111111&height=70&section=footer" width="100%" alt="" />
 
 </div>
