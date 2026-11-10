@@ -107,6 +107,8 @@ A home for my projects, experience and experiments on the web.
 
 ### `04 / INTERACTIVE LAB`
 
+<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/interactive-lab.gif" width="100%" alt="Animated interactive lab graphic with orbiting points" />
+
 Explore some of my interactive experiments:
 
 🎮 **[Tower of Hanoi](https://github.com/Punith-Singh/TowerofHanoi)** — a 3D puzzle visualization built with Three.js  
@@ -133,6 +135,8 @@ Explore some of my interactive experiments:
 <br>
 
 ### `06 / GITHUB ACTIVITY`
+
+<img src="https://raw.githubusercontent.com/Punith-Singh/Punith-Singh/main/assets/activity-signal.gif" width="100%" alt="Animated activity signal graphic" />
 
 <div align="center">
 
