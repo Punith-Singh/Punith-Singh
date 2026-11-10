@@ -1,139 +1,128 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2400&pause=800&color=AAAAAA&center=true&vCenter=true&width=650&height=30&lines=%3E+SYSTEM+BOOT%3A+PUNITH+H+SINGH;%3E+SOFTWARE+%7C+SYSTEMS+%7C+AUTOMATION;%3E+BUILDING.+DEBUGGING.+ITERATING." alt="Animated system boot sequence" />
+<sub>APPLICATIONS &nbsp; / &nbsp; SYSTEMS &nbsp; / &nbsp; AUTOMATION</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=3&section=header" width="100%" alt="" />
+# Punith H Singh
 
-# P U N I T H&nbsp; H&nbsp; S I N G H
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=BABABA&center=true&vCenter=true&width=620&height=35&lines=Investigate+the+issue.;Understand+the+system.;Build+something+useful." alt="Investigate the issue. Understand the system. Build something useful." />
 
-### `ENGINEERING / DEVELOPMENT`
+**Building useful things. Figuring out how they work.**
 
-`DevOps` &nbsp; `APPLICATION DEBUGGING` &nbsp; `BACKEND` &nbsp; `AI`
-
-[GitHub](https://github.com/Punith-Singh) &nbsp; / &nbsp; [Portfolio](https://punith-singh.github.io/mywebsite) &nbsp; / &nbsp; [LinkedIn](https://linkedin.com/in/punith-h-singh)
+[Portfolio ↗](https://punith-singh.github.io/mywebsite) &nbsp;&nbsp; / &nbsp;&nbsp; [LinkedIn ↗](https://linkedin.com/in/punith-h-singh) &nbsp;&nbsp; / &nbsp;&nbsp; [Projects ↗](https://github.com/Punith-Singh?tab=repositories)
 
 </div>
 
 ---
 
-### `// PROFILE`
+### `01 / THE WORK`
 
-I'm an Analytics (Consultant) at **CRED**, working hands-on with SQL, application logs, API testing, and Python scripts to investigate issues and support application operations.
+I’m an **Analytics Consultant at CRED**, working with SQL, logs, API testing and Python scripts to investigate application issues and support operations.
 
-I use **Datadog, Databricks, and Postman** in my work. Alongside this, I build Python and Android projects, with previous DevOps internship experience using AWS, Docker, and Kubernetes.
+Outside work, I build Android apps, Python projects and web tools. I also bring DevOps internship experience with AWS, Docker and Kubernetes.
 
-Currently focused on:
+`SQL & LOGS` &nbsp; `API TESTING` &nbsp; `PYTHON` &nbsp; `ANDROID` &nbsp; `CLOUD`
 
-- Application debugging and SQL analysis
-- Python development and automation
-- Native Android development with Kotlin
-- Cloud infrastructure and developer tooling
+<br>
 
-### `// SYSTEM STATUS`
+### `02 / FEATURED BUILD`
 
-```yaml
-identity: Punith H Singh
-role: Analytics (Consultant)
-environment:
-  - applications
-  - data
-  - cloud
-building:
-  - ZenShield
-approach: iterative
-```
+<table>
+<tr>
+<td>
 
-## `01` — PROJECT ARCHIVE
+<sub>ANDROID &nbsp; / &nbsp; FOCUS &nbsp; / &nbsp; PERSONAL PROJECT</sub>
 
-Selected builds · experiments · engineering work
+## ZenShield
 
-### `01 / ZENSHIELD`
+A native Android app for creating quieter moments. Set a focus session, choose which apps to block, and manage notifications on your terms.
 
-**Focus management · Android**
+**Schedule-based blocking** &nbsp; · &nbsp; **App-specific rules** &nbsp; · &nbsp; **Custom focus sessions**
 
-A native Android app with schedule-based notification blocking, app-specific rules, and custom focus sessions.
+`Kotlin` &nbsp; `Jetpack Compose` &nbsp; `Android`
 
-`KOTLIN` `COMPOSE` `ANDROID`
+<sub>Source repository is private.</sub>
 
-### `02 / OMNICONVERTER`
+</td>
+</tr>
+</table>
 
-**Utility · Application development**
+<br>
 
-A browser toolkit for image compression, format conversion, resizing, watermarking, and PDF creation, with utilities for Lottie previews, Base64, and QR codes.
+### `03 / SELECTED PROJECTS`
 
-`JAVASCRIPT` `BROWSER TOOLS` `UI/UX`
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Source repository is private.*
+**01 &nbsp; / &nbsp; OmniConverter**
 
-### `03 / CHATBOT`
+A browser toolkit for image conversion, compression, resizing, watermarking and PDF creation.
 
-**Backend · Database integration**
+`JavaScript` · `Browser tools`
 
-A Python Flask chatbot backed by Oracle SQL.
+<sub>Private source</sub>
 
-`PYTHON` `FLASK` `ORACLE SQL`
+</td>
+<td width="50%" valign="top">
 
-[↗ View source](https://github.com/Punith-Singh/chatbot)
+**02 &nbsp; / &nbsp; Vehicle Speed Tracker**
 
-### `04 / TRAIN MANAGEMENT`
+Tracks vehicles in video, estimates speed and visualizes traffic data.
 
-**Booking · Reservation workflows**
+`Python` · `OpenCV` · `Matplotlib`
 
-A train management application covering ticket booking and reservations.
+[View repository ↗](https://github.com/Punith-Singh/Speed-Detection-System)
 
-`PYTHON` `FLASK` `SQL`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### `05 / VEHICLE SPEED TRACKER`
+**03 &nbsp; / &nbsp; Chatbot**
 
-**Computer vision · Traffic analysis**
+A Flask chatbot backed by Oracle SQL.
 
-Processes video to track vehicles, estimate speed between two reference lines, flag overspeeding, save cropped vehicle images, and visualize traffic data.
+`Python` · `Flask` · `Oracle SQL`
 
-`PYTHON` `OPENCV` `MATPLOTLIB`
+[View repository ↗](https://github.com/Punith-Singh/chatbot)
 
-[↗ View source](https://github.com/Punith-Singh/Speed-Detection-System)
+</td>
+<td width="50%" valign="top">
 
-## `02` — TECHNOLOGY MATRIX
+**04 &nbsp; / &nbsp; Portfolio**
 
-<div align="center">
+A home for my projects, experience and experiments on the web.
 
-<img src="https://skillicons.dev/icons?i=python,java,kotlin,flask,androidstudio,aws,docker,kubernetes,jenkins,git,github&theme=dark&perline=6" alt="Programming languages, development tools and infrastructure" />
+`Web` · `UI` · `Interaction`
 
-</div>
+[Visit portfolio ↗](https://punith-singh.github.io/mywebsite) &nbsp; / &nbsp; [Source ↗](https://github.com/Punith-Singh/mywebsite)
 
-**DATA**
+</td>
+</tr>
+</table>
 
-SQL · Oracle SQL · Databricks
+<br>
 
-**OBSERVABILITY & TESTING**
+### `04 / TOOLKIT`
 
-Datadog · Postman
+| | What I work with |
+| :--- | :--- |
+| **Build** | Python · Kotlin · Java · Flask · Jetpack Compose |
+| **Investigate** | SQL · Databricks · Datadog · Postman · application logs |
+| **Infrastructure** | AWS · Docker · Kubernetes · Jenkins · Git |
 
-**INFRASTRUCTURE**
+<br>
 
-AWS · Docker · Kubernetes · Jenkins
-
-## `03` — REPOSITORY TELEMETRY
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&icon_color=cccccc&include_all_commits=true" width="480" alt="GitHub statistics" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=aaaaaa&langs_count=8" width="480" alt="Top programming languages" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=0d0d0d&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=777777" width="480" alt="GitHub contribution streak" />
-
-</div>
-
-## `04` — ENGINEERING LOOP
+### `05 / GITHUB ACTIVITY`
 
 <div align="center">
 
-`OBSERVE` &nbsp; → &nbsp; `ANALYZE` &nbsp; → &nbsp; `BUILD` &nbsp; → &nbsp; `DEBUG` &nbsp; → &nbsp; `ITERATE`
+<img src="https://github-readme-stats.vercel.app/api?username=Punith-Singh&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&icon_color=cccccc&include_all_commits=true" alt="GitHub statistics" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punith-Singh&layout=compact&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=aaaaaa&langs_count=8" alt="Top programming languages in public repositories" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=Punith-Singh&hide_border=true&background=0d1117&ring=aaaaaa&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&currStreakNum=ffffff&sideNums=cccccc&dates=777777" alt="GitHub contribution streak" width="70%" />
+
+<sub>Language statistics reflect public repositories, not a complete measure of skills.</sub>
 
 </div>
 
@@ -141,12 +130,12 @@ AWS · Docker · Kubernetes · Jenkins
 
 <div align="center">
 
-**OPEN TO INTERESTING ENGINEERING PROBLEMS.**
+<sub>OBSERVE &nbsp; → &nbsp; UNDERSTAND &nbsp; → &nbsp; BUILD &nbsp; → &nbsp; ITERATE</sub>
 
-[CONNECT](https://linkedin.com/in/punith-h-singh) &nbsp; · &nbsp; [PORTFOLIO](https://punith-singh.github.io/mywebsite) &nbsp; · &nbsp; [ALL PROJECTS](https://github.com/Punith-Singh?tab=repositories)
+<br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=350&height=22&lines=%3E+process.exit(0);%3E+back+to+building..." alt="Animated terminal outro" />
+**Let’s build something useful.**
 
-<sub>MONOCHROME BY DESIGN · ENGINEERING IN PROGRESS</sub>
+[LinkedIn](https://linkedin.com/in/punith-h-singh) &nbsp; / &nbsp; [Portfolio](https://punith-singh.github.io/mywebsite)
 
 </div>
