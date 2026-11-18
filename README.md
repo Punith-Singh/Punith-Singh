@@ -18,7 +18,7 @@
 
 ### `01 / THE WORK`
 
-I’m an **Analytics Consultant at CRED**, working with SQL, logs, API testing and Python scripts to investigate application issues and support operations.
+I’m an **Analyst Consultant at CRED**, working with SQL, logs, API testing and Python scripts to investigate application issues and support operations.
 
 Outside work, I build Android apps, Python projects and web tools. I also bring DevOps internship experience with AWS, Docker and Kubernetes.
 
